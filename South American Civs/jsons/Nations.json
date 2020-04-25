@@ -37,3 +37,84 @@
 		]
 	}
 ]
+
+
+[
+	{
+		"name": "the Gran Colombia",
+		"leaderName": "Simon Bolivar",
+		"adjective": [
+			"Colombian"
+		],
+		"startBias": [
+			"Hill"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		"declaringWar": "In name of the Freedom and people, You pay for this.",
+		"attacked": "you should not do that.",
+		"defeated": "well...",
+		"introduction": "Nice to meet you! I am Simon bolivar, freedom fighter.",
+		"neutralHello": "Hello!",
+		"hateHello": "You!.",
+		"tradeRequest": "I think what...?",
+		"outerColor": [
+		245, 
+	        231, 
+		34
+		],
+		"innerColor": [
+			204, 
+		        0, 
+			0
+		],
+		"cities": [
+			"Bogota",
+			"caracas",
+			"Medellin",
+			"Popayan",
+			"Cucuta"
+		]
+	}
+]
+
+[
+	{
+		"name": "Brazil",
+		"leaderName": "Deodoro da Fonseca",
+		"adjective": [
+			"Brazilian"
+		],
+		"startBias": [
+			"Jungle"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		"declaringWar": "In name of the green forest of amazonas, You pay for this.",
+		"attacked": "If you attack my people, i attack your nation.",
+		"defeated": "well...",
+		"introduction": "Nice to meet you! I am deodoro da fonesca.",
+		"neutralHello": "hey!",
+		"hateHello": "What!?",
+		"tradeRequest": "do you want...?",
+		"outerColor": [
+		        31, 
+			148, 
+			7
+		],
+		"innerColor": [
+			14, 
+			7,
+			148
+		],
+		"cities": [
+			"Rio de janeiro",
+			"Sao paulo",
+			"Manaos",
+			"Porto Alegre",
+			"Fortaleza"
+		]
+	}
+]
